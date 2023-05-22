@@ -1,0 +1,15 @@
+{
+
+  "type": "module",
+  "scripts": {
+    "dev": "vitepress dev content",
+    "build": "vitepress build content",
+    "preview": "vitepress preview content"
+  },
+  "devDependencies": {
+    "@antfu/eslint-config": "^0.39.1",
+    "eslint": "^8.41.0",
+    "typescript": "^5.0.4",
+    "vitepress": "1.0.0-alpha.76"
+  }
+}
