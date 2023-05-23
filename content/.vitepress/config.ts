@@ -22,5 +22,10 @@ export default defineConfig({
     socialLinks: [
       { icon: 'github', link: 'https://github.com/soulsam480/recipes' },
     ],
+
+    footer: {
+      message: 'Released under the <a target="_blank" href="https://github.com/soulsam480/recipes/blob/master/LICENSE">MIT License</a>.',
+      copyright: 'Copyright © 2019 - Present <a target="_blank" href="https://github.com/soulsam480">Sambit Sahoo</a>'
+    }
   },
 })
