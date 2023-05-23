@@ -12,6 +12,7 @@
     "vitepress": "1.0.0-alpha.76"
   },
   "dependencies": {
+    "vue": "^3.3.4",
     "vue-cusdis": "^2.1.1"
   }
 }
